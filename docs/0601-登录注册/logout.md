@@ -11,5 +11,10 @@ http://dev2.coingogo.com:10/mobi/member/logout
 
 **成功：**
 
-    {"msg":"done"}
+    {
+    "state": {
+        "cd": 1,
+        "msg": "done"
+    	},
+	}
 
