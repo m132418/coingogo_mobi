@@ -23,7 +23,12 @@ source :qq,weixin,weibo
 
     
     {
-    "user": {
+    "state": {
+        "cd": 1,
+        "msg": ""
+    	},
+
+    "data": {
     "id": 7126,
     "username": "GhostPrince",
     "auth_key": "CptFNBDAg4Cx_IfhZZlwu77_qxj7Mpu7",
@@ -44,15 +49,18 @@ source :qq,weixin,weibo
     "pid": 0,
     "signature": "",
     "email_hash": null
-    },
-    "msg": "done"
+    	}
+   
     }
     
 
 **失败:**
 
     {
-    "err": "fail"
+     "state": {
+        "cd": -1,
+        "msg": "登陆失败"
+    	}
     }
 
 
@@ -76,7 +84,10 @@ http://dev2.coingogo.com:10/mobi/member/send-reg-cd
 如果成功了返回
 
     {
-    "msg": "done"
+     "state": {
+        "cd": 1,
+        "msg": "done"
+    	}
     }
 
 并且注册手机收到注册验证码,否则返回错误信息。
@@ -103,5 +114,19 @@ http://dev2.coingogo.com:10/mobi/member/auth-reg
 如果注册成功返回：
     
     {
-    "msg": "Success"
+     "state": {
+        "cd": 1,
+        "msg": "Success"
+    	},
+    "data": {
+        "username": "15321678022",
+        "email": "mail126@ss122s.com",
+        "mobile": "15321678022",
+        "password_hash": "$2y$13$IyEoM7F/jSMbohGMdDNMO.VsMHjSnMAIu7oOki1/ZCUk8N04r1fVu",
+        "auth_key": "zbwNZhUD1COF_5i-0K-p9MCJRpO-uPk0",
+        "status": 10,
+        "created_at": 1528856056,
+        "updated_at": 1528856056,
+        "id": 54519
+    	}
     }
