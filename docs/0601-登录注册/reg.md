@@ -15,9 +15,12 @@ http://dev2.coingogo.com:10/mobi/member/send-reg-cd
 
 如果成功了返回
 
-    {
-    "msg": "done"
-    }
+	{
+    "state": {
+        "cd": 1,
+        "msg": "done"
+    	}
+	}
 
 并且注册手机收到注册验证码,否则返回错误信息。
 需要注意的是一个号一天只能发5个短消息,而且收到验证码一分钟内注册使用。
@@ -41,7 +44,22 @@ http://dev2.coingogo.com:10/mobi/member/reg
     
 如果注册成功返回：
     
-    {
-    "msg": "Success"
-    }
+
+	{
+    "state": {
+        "cd": 1,
+        "msg": "Success"
+    	},
+    "data": {
+        "username": "15321678022",
+        "email": "mail126@ss122s.com",
+        "mobile": "15321678022",
+        "password_hash": "$2y$13$IyEoM7F/jSMbohGMdDNMO.VsMHjSnMAIu7oOki1/ZCUk8N04r1fVu",
+        "auth_key": "zbwNZhUD1COF_5i-0K-p9MCJRpO-uPk0",
+        "status": 10,
+        "created_at": 1528856056,
+        "updated_at": 1528856056,
+        "id": 54519
+    	}
+	}
     
