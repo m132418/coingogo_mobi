@@ -15,16 +15,24 @@
 **成功：**
 
      {
+    "state": {
+        "cd": 1,
+        "msg": ""
+    	},
     "data": {
-    "id": "101",
-    "username": "coingogo",
-    "mobile": "23322024541",
-    "avatar": "n5c4h8GKMXPGGY6Jt1sovDpKPKhQ7VXz.jpg"
-       }
-    }
+        "id": "101",
+        "username": "coingogo",
+        "mobile": "23322024541",
+        "avatar": "n5c4h8GKMXPGGY6Jt1sovDpKPKhQ7VXz.jpg"
+    	}
+	}
 
 **失败:**
-
+    
     {
-    "err": "失败"
-    }
+    "state": {
+        "cd": -1,
+        "msg": "登陆失败"
+    	}
+	}
+ 
