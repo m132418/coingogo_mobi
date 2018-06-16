@@ -5,6 +5,7 @@
   http://dev2.coingogo.com:10/mobi/member/login
 
 **入参:**
+uname/手机号都可以登陆
 
       {
        "uname" : "coingogo",
