@@ -18,7 +18,7 @@ source :qq,weixin,weibo
 	   "vcd":"5e133196c77fb2721e387ec2c624cfa7"
 	}
     
-
+source "weixin"第三方标识 微信 "qq" qq ；source_id 第三方登录提供的唯一标识.
 **成功：**
 
     
