@@ -22,11 +22,10 @@ http://dev2.coingogo.com:10/mobi/member/send-reg-cd
     	}
 	}
 
-并且注册手机收到注册验证码,否则返回错误信息。
+
+*并且注册手机收到注册验证码,否则返回错误信息。
 需要注意的是一个号一天只能发5个短消息,而且收到验证码一分钟内注册使用。
-
-
-拿到注册短信进行注册,根据原型图，uname就是phone number,所以会以手机号为username 注一个会员
+拿到注册短信进行注册,根据原型图，uname就是phone number,所以会以手机号为username 注一个会员*
 
 **url:**
 
