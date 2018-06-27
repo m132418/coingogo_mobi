@@ -12,4 +12,6 @@ http://dev2.coingogo.com:10/mobi/news/detail
 	"vcd":"e1ff45d298c11abe03b38e9fffde2bc8"
 	}
 
+pic dir : '/uploads/news'
+
 **返回略**
