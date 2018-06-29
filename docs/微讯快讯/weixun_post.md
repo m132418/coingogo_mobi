@@ -1,0 +1,24 @@
+# 微讯详情 #
+
+
+**url**
+
+http://dev2.coingogo.com:10/mobi/wei-xun/post
+
+**入参**
+
+	{
+		"title":"题目题目涕涕涕",
+		"content":"内容随便随便随便拉",
+		"vcd":"ac166a36745546782ad77eae4cce326a"
+	}
+
+须知，先登入不然报错
+题目，内容不可为空，如果发布成功了返回如下
+
+	{
+	    "state": {
+	        "cd": 1,
+	        "msg": "done"
+	    }
+	}
