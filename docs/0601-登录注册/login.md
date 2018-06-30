@@ -25,6 +25,7 @@ uname/手机号都可以登陆
     "data": {
         "id": "101",
         "username": "coingogo",
+	 "password_hash": "$2y$13$.WAq.xSIku9X92a.PdOriebtoVqPUPYnm8ux9SHHFcxFKgDsvN9Fi",
         "mobile": "23322024541",
         "avatar": "n5c4h8GKMXPGGY6Jt1sovDpKPKhQ7VXz.jpg"
     	}
@@ -32,6 +33,10 @@ uname/手机号都可以登陆
 
 
 avatar 头像图片
+
+你下次请求如果需要提供uid ，比如这次 101 附上token，其中token
+=md5( password_hash + id)
+
 **失败:**
     
     {
