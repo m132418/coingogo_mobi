@@ -10,7 +10,7 @@
 			{
 			   "id":1085,
 		       "vcd":"391ece9b940009caf89ba5a5565a2249",
-		       "uid"101		
+		       "uid":101		
 			}
 	
 	
@@ -82,6 +82,7 @@
 	            "signature": "",
 	            "email_hash": null
 	        },
+	        "is_zan": "0",
 	        "comments": [
 	            {
 	                "id": "1841",
