@@ -12,12 +12,17 @@ http://dev2.coingogo.com:10/mobi/article/category
        "vcd":"a28882a389ae2fdb44a56767a776373a"
 	}
 
-返回类别树，两级
+返回类别树，两级,还夹杂了论坛统计指标
 
 
 	{
 	    "state": {
 	        "cd": 1
+	    },
+	    "count": {
+	        "today": "0",
+	        "yesterday": "0",
+	        "total": "3927"
 	    },
 	    "data": {
 	        "数字货币-1": [
