@@ -1,6 +1,6 @@
 url:
 
-https://www.coingogo.com/mobi/my/index
+https://www.coingogo.com/mobi/my/msg
 
 入参
 
