@@ -12,7 +12,7 @@ http://dev2.coingogo.com:10/mobi/member/change-email
 	"vcd":"27f16261eb3d026cbc73eae907184da2",
 	"uid":101,
 	"token":"5f571cc6c47b1e57606532892b01e1ed",
-	"email":"tmcn@foxmail.com"
+	"email":"xxx@foxmail.com"
 	}
 
 **结果：**
