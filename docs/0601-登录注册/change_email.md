@@ -41,7 +41,7 @@ http://dev2.coingogo.com:10/mobi/member/udt-email
 	"vcd":"473d2cce8ea0e5c91916224ff67a62a8",
 	"uid":101,
 	"token":"5f571cc6c47b1e57606532892b01e1ed",
-	"email":"tmcn@foxmail.com",
+	"email":"xxx@foxmail.com",
 	"code":"mD8Rxt"
 	}
     
