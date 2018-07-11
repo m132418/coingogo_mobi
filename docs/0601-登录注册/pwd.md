@@ -55,6 +55,7 @@ http://dev2.coingogo.com:10/mobi/member/chg-tx-pwd
 		"vcd":"55c53c8d85292bba31d8409bbd88dc58",
 		"uid":101,
 		"token":"5f571cc6c47b1e57606532892b01e1ed",
-		"code":456123
+		"code":456123,
+		"pwd":"abc123"
 	}
     
