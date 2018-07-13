@@ -1,6 +1,6 @@
-# 币数据列表 #
+# 交易所列表 #
 **url**
-http://dev2.coingogo.com:10/mobi/coin/list
+http://dev2.coingogo.com:10/mobi/exchanges/list
 
 入参
 
