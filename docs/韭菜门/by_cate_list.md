@@ -2,7 +2,7 @@
 
 **url:**
 
-http://dev2.coingogo.com:10/mobi/knowledge/ca
+http://dev2.coingogo.com:10/mobi/knowledge/by-ca
 
 **入参**
 
