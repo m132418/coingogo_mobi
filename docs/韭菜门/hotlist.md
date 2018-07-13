@@ -9,7 +9,7 @@ http://dev2.coingogo.com:10/mobi/knowledge/hot-list
 	{
 			"page":0,
 			"psize":6,
-	       "vcd":"7f3fe3919034a50252e925557886c880"
+	       "vcd":"902831d59f4fac21cc5e4b8d3c5f26ff"
 	}
 
 **返回略**
