@@ -8,7 +8,7 @@ https://www.coingogo.com/mobi/search/search
 
 	{
 	"kwork":"世界",
-	"page":1,
+	"search_type":"knoledge",
 	"vcd":"593025a2ae3ad30a5a8623a665f048b7"
 	}
 
