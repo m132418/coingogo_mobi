@@ -11,7 +11,7 @@ http://dev2.coingogo.com:10/mobi/knowledge/ask
 		"category_id":2,
 		"content":"地球什么时候秃噜扣?",
 		"title":"瞎操心",
-		"amount_type":0 , // 悬赏类型  0=源点 1=不悬赏  4=源币 ;以实际数据库数据 和 原有程序处理为准
+		"amount_type":0 , // 悬赏类型  0=源点 1=不悬赏  ;以实际数据库数据 和 原有程序处理为准
 		"yuandian":3, //如果amount_type=1 了那么 必须有这个字段
        "vcd":"a2514028d09ac77493942fe1f338b2aa",
 	"uid":101,
