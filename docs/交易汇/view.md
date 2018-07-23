@@ -1,4 +1,4 @@
-# 币数据列表 #
+# 币数据详情 #
 **url**
 http://dev2.coingogo.com:10/mobi/exchanges/view
 
