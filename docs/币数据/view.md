@@ -19,8 +19,7 @@ https://www.coingogo.com/mobi/coin/comments4-view
 	"vcd":"19a769f99f0d53c6d1ee8c7743f2f4a0",
 	"id":213, //这个是bitcoin 的id  ； 上面那个接口找   "coin": { "id": 213,      中id  
 	"page":0,
-	"psize":6
-	
+	"psize":6	
 	}
 
 
