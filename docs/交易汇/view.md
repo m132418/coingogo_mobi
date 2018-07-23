@@ -1,4 +1,4 @@
-# 币数据详情 #
+# 交易所详情 #
 **url**
 http://dev2.coingogo.com:10/mobi/exchanges/view
 
@@ -10,5 +10,7 @@ http://dev2.coingogo.com:10/mobi/exchanges/view
 	   "vcd" : "625653c900e68750838c0a3b69acf748"
 	}
 
+
+http://dev2.coingogo.com:10/mobi/exchanges/view
 
 
