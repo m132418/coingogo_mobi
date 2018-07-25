@@ -7,7 +7,7 @@ https://www.coingogo.com/mobi/search/search
 **入参:**
 
 	{
-	"kwork":"世界",
+	"kword":"世界",
 	"search_type":"knoledge",   //knowledge ,article,news三种类型
 		"page" : 0,	   
 	   "psize" : 5,	 
