@@ -7,7 +7,7 @@ http://dev2.coingogo.com:10/mobi/knowledge/relate-que
 **入参:**
 
 	{
-	"kwork":"世界",
+	"kword":"世界",
 		"page" : 0,	   
 	   "psize" : 5,	 
 	"vcd":"d17e404e58f4e529a7616fee63a61686"
