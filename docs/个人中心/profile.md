@@ -12,15 +12,7 @@ https://www.coingogo.com/mobi/my/profile
 
 返回
 
-		{
-    "state": {
-        "cd": 1
-    },
-    "data": {
-        "yuanb": 0,
-        "merrit": 375028
-    	}
-	}	
+	级别 vip ; 类型 role
 
 
 # 修改个人资料 #
