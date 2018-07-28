@@ -37,7 +37,7 @@ http://dev2.coingogo.com:10/mobi/member/reg
        "uname" : "jeffrey",
        "email" : "mail126@sss.com",
        "pwd":"123456",
-       "mobiile" : "15311678029",
+       "mobile" : "15311678029",
        "vcode":"896547",
        "vcd":"e215dc8270239f32a433a172054172c4"
     }
