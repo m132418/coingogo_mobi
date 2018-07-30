@@ -61,3 +61,48 @@ http://dev2.coingogo.com:10/mobi/member/chg-tx-pwd
 		"pwd":"abc123"
 	}
     
+
+----------------------------Email--------------------------
+
+# 先发验证码 #
+
+**url:**
+
+http://dev2.coingogo.com/mobi/member/send-email-chg-cd
+
+**入参:**
+
+	{
+		"vcd":"55c53c8d85292bba31d8409bbd88dc58",
+		"email":"hongss@126.com"
+		
+	}
+
+**结果：**
+
+如果成功了返回
+
+	{
+    "state": {
+        "cd": 1,
+        "msg": "done"
+    	}
+	}
+
+
+
+# 改登陆pwd #
+
+**url:**
+
+http://dev2.coingogo.com/mobi/member/email-chg-login-pwd
+
+入参
+
+	{
+		"vcd":"c9f0d11f9a35fc0a68366ef3ae619db4",
+		"email":"tmcn@foxmail.com",
+		"code":"APhVqo",		
+		"pwd":"123456"
+	}
+    
