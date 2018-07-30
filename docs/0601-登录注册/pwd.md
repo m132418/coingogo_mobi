@@ -91,6 +91,9 @@ http://dev2.coingogo.com/mobi/member/send-email-chg-cd
 
 
 
+
+
+
 # 改登陆pwd #
 
 **url:**
@@ -104,5 +107,23 @@ http://dev2.coingogo.com/mobi/member/email-chg-login-pwd
 		"email":"tmcn@foxmail.com",
 		"code":"APhVqo",		
 		"pwd":"123456"
+	}
+    
+
+
+
+# 检测email收到验证码 #
+
+**url:**
+
+http://dev2.coingogo.com/mobi/member/chk-email-vcd
+
+入参
+
+	{
+		"vcd":"4c21b99e90e6cff8db5ff635babaa27a",
+		"email":"tmcn@foxmail.com",
+		"code":"APhVqo"		
+	
 	}
     
