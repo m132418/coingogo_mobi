@@ -68,7 +68,7 @@ http://dev2.coingogo.com:10/mobi/member/chg-tx-pwd
 
 **url:**
 
-http://dev2.coingogo.com/mobi/member/send-email-chg-cd
+http://dev2.coingogo.com/mobi/member/email-send-chg-cd
 
 **入参:**
 
