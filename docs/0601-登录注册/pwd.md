@@ -158,10 +158,10 @@ http://dev2.coingogo.com/mobi/member/mobile-chg-login-pwd
 入参
 
 	{
-		"vcd":"c9f0d11f9a35fc0a68366ef3ae619db4",
-		"mobile":"13352654586",
-		"code":"589635",		
-		"pwd":"123456"
+		"vcd":"abb8a2cbb6acc43cfb72d38a0c929baa",
+		"phone":"18816986941",
+		"code":"644504",		
+		"pwd":"654321"
 	}
     
 
@@ -175,7 +175,7 @@ http://dev2.coingogo.com/mobi/member/chk-mobile-vcd
 
 	{
 		"vcd":"4c21b99e90e6cff8db5ff635babaa27a",
-		"mobile":"13352654586",
+		"phone":13352654586",
 		"code":"589635"		
 	
 	}    
