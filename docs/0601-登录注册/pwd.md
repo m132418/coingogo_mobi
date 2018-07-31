@@ -62,7 +62,7 @@ http://dev2.coingogo.com:10/mobi/member/chg-tx-pwd
 	}
     
 
-----------------------------Email--------------------------
+----------------------------Email找回密码--------------------------
 
 # 先发验证码 #
 
@@ -126,4 +126,56 @@ http://dev2.coingogo.com/mobi/member/chk-email-vcd
 		"code":"APhVqo"		
 	
 	}
+
+
+
+----------------------------mobile找回密码--------------------------
+
+# 先发验证码 #
+
+**url:**
+
+http://dev2.coingogo.com/mobi/member/mobile-send-chg-cd
+
+**入参:**
+
+	{
+		"vcd":"011a9126fb31b1d800c49ee64c841530",
+		"phone":"13352654586"		
+	}
+
+
+
+
+
+
+# 改登陆pwd #
+
+**url:**
+
+http://dev2.coingogo.com/mobi/member/mobile-chg-login-pwd
+
+入参
+
+	{
+		"vcd":"c9f0d11f9a35fc0a68366ef3ae619db4",
+		"mobile":"13352654586",
+		"code":"589635",		
+		"pwd":"123456"
+	}
     
+
+# 检测mobile收到验证码 #
+
+**url:**
+
+http://dev2.coingogo.com/mobi/member/chk-mobile-vcd
+
+入参
+
+	{
+		"vcd":"4c21b99e90e6cff8db5ff635babaa27a",
+		"mobile":"13352654586",
+		"code":"589635"		
+	
+	}    
