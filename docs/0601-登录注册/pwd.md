@@ -174,7 +174,7 @@ http://dev2.coingogo.com/mobi/member/chk-mobile-vcd
 入参
 
 	{
-		"vcd":"4c21b99e90e6cff8db5ff635babaa27a",
+		"vcd":"ff8825f2fe31e544be9a8b3016832155",
 		"phone":13352654586",
 		"code":"589635"		
 	
