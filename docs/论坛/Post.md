@@ -23,5 +23,12 @@
 	
 没有uid 也能返回必要的数据.
 
+# 拽一些标签供发帖用 #
 
+http://dev2.coingogo.com/mobi/article/pull-tags
+
+	{	
+		"howmany":3, 
+       "vcd":"e05ddb13ae33d10a58393fc07f9450b9"      
+	}
 
