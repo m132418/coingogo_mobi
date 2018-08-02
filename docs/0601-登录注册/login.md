@@ -46,3 +46,21 @@ avatar 头像图片
     	}
 	}
  
+
+
+
+# 登陆 2#
+这个 是验证uid token的，每次启动app 自动调用，验证通过视同登陆.如果对不上就跳转到登陆页面 重新登陆就是了.
+
+**url:**
+
+  http://dev2.coingogo.com:10/mobi/member/login2
+
+**入参:**
+
+      {
+       "uid" : 101,
+       "token" : "cd0a1f4e44991fdd7c17db3fdc35ad2c",
+       "vcd":"0f971354a76ef3b602971a03dae1ae33"
+      }
+
