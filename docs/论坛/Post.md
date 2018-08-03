@@ -55,3 +55,31 @@ http://dev2.coingogo.com/mobi/article/pull-tags
 		"token":"5f571cc6c47b1e57606532892b01e1ed"
 		    	
 			}
+
+
+
+**url:**
+	
+	http://dev2.coingogo.com/mobi/article/draft-list
+	
+	**入参:**
+	
+			{							
+		 "vcd":"2ebd2a8ac3ade1483959e1bcf524c3eb",
+		"uid":101,
+		"token":"5f571cc6c47b1e57606532892b01e1ed"		    	
+			}
+
+
+**url:**
+	
+	http://dev2.coingogo.com/mobi/article/draft-view
+	
+	**入参:**
+	
+			{							
+		 "vcd":"f95138ad60cf6e516c0393217324e20e",
+		"uid":101,
+		"token":"5f571cc6c47b1e57606532892b01e1ed"	,
+		"topicid":4017	    	
+			}
