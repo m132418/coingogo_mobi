@@ -109,6 +109,8 @@ http://dev2.coingogo.com:10/mobi/member/auth-reg
        "uname" : "xxx",
        "email" : "mail126@sss.com",
        "pwd":"123456",
+		"username":"tomsdw",
+		"mobile":"15321856958",
        "vcode":"896547",
        "vcd":"e215dc8270239f32a433a172054172c4"
     }
