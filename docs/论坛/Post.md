@@ -64,7 +64,9 @@ http://dev2.coingogo.com/mobi/article/pull-tags
 	
 	**入参:**
 	
-			{							
+			{	
+	   "page" : 1,
+	   "psize" : 5,						
 		 "vcd":"2ebd2a8ac3ade1483959e1bcf524c3eb",
 		"uid":101,
 		"token":"5f571cc6c47b1e57606532892b01e1ed"		    	
