@@ -110,6 +110,7 @@ http://dev2.coingogo.com:10/mobi/member/auth-reg
        "email" : "mail126@sss.com",
        "pwd":"123456",		
 		"mobile":"15321856958",
+		"unionid":"olngMwl6t5mSfTmUDYNGwiscnKYA",
        "vcode":"896547",
        "vcd":"e215dc8270239f32a433a172054172c4"
     }
