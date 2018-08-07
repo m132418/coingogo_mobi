@@ -101,3 +101,16 @@ http://dev2.coingogo.com/mobi/article/pull-tags
 		"topicid":4017	    			    	
 			}
 
+**url:**
+	
+	http://dev2.coingogo.com/mobi/article/draft2pub
+	
+	**入参:**
+	
+      {
+		"vcd":"8dc24bbf3de722f93d0b559a6c044059",
+		"uid":101,
+		"token":"cd0a1f4e44991fdd7c17db3fdc35ad2c",
+		"topicid":21693	    	
+      }
+
