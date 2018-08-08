@@ -10,18 +10,21 @@
 	       "vcd":"f34aaf443c22dcb5f61ef91504a2946e",
 	       "uid":101,
 			"token":"f34aaf443c22dcb5f61ef91504a2946e",
-	       "catid":4
+	       "catid":4，
+			"flag":1 // 0取消 1执行置顶
 		}
 
 
 
 
 # 超级版主 #
-## 置顶 ##
-/mobi/moderator/top2
+## 加精 ##
+/mobi/moderator/essence1
 
 	{
-		   "id":639,
-	       "vcd":"391ece9b940009caf89ba5a5565a2249",
-	       "uid":101
+		   "topicid":639, 
+	       "vcd":"f34aaf443c22dcb5f61ef91504a2946e",
+	       "uid":101,
+			"token":"f34aaf443c22dcb5f61ef91504a2946e",
+	       "catid":4
 		}
