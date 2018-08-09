@@ -76,3 +76,29 @@
 			
 		}
 
+
+
+## 移动 ##
+/mobi/moderator/move2
+
+	{
+		   "topicid":639, 
+	       "vcd":"03c4becf1ba2f17e737e78134799abff",
+	       "uid":101,
+			"token":"f34aaf443c22dcb5f61ef91504a2946e",
+	       "target_catid":4
+			
+		}
+
+
+## 屏蔽 ##
+/mobi/moderator/mask2
+
+	{
+		   "topicid":639, 
+	       "vcd":"03c4becf1ba2f17e737e78134799abff",
+	       "uid":101,
+			"token":"f34aaf443c22dcb5f61ef91504a2946e",
+	       "target_catid":4
+			
+		}
