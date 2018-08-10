@@ -20,7 +20,7 @@ source :qq,weixin,weibo
 	}
     
 *source "weixin"第三方标识 微信 "qq" qq ；source_id 第三方登录提供的唯一标识.*
-
+*unionid,openid微信 使用,app微信第三方登陆就用unionid 查询*
 
 # 三方微信注册 #
 
