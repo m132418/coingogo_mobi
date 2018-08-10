@@ -113,8 +113,7 @@ http://dev2.coingogo.com:10/mobi/member/auth-reg
        "uname" : "xxx",
        "email" : "mail126@sss.com",
        "pwd":"123456",		
-		"mobile":"15321856958",
-		"unionid":"olngMwl6t5mSfTmUDYNGwiscnKYA",
+		"mobile":"15321856958",		
        "vcode":"896547",
        "vcd":"e215dc8270239f32a433a172054172c4"
     }
@@ -137,4 +136,22 @@ http://dev2.coingogo.com:10/mobi/member/auth-reg
         "updated_at": 1528856056,
         "id": 54519
     	}
+    }
+
+
+**url:**
+
+http://dev2.coingogo.com:10/mobi/member/auth-bing-wx
+
+入参
+
+    {
+	   "source" : "weixin",
+	   "source_id" : "olngMwl6t5mSfTmUDYNGwiscnKYA",
+		"unionid":"olngMwl6t5mSfTmUDYNGwiscnKYA",
+		"openid":"olngMwl6t5mSfTmUDYNGwiscnKYA",
+       "uname" : "xxx",      
+       "pwd":"123456",	
+       "vcode":"896547",
+       "vcd":"e215dc8270239f32a433a172054172c4"
     }
