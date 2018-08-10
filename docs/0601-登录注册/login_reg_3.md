@@ -15,6 +15,8 @@ source :qq,weixin,weibo
 	{
 	   "source" : "weixin",
 	   "source_id" : "olngMwl6t5mSfTmUDYNGwiscnKYA",
+		"unionid":"olngMwl6t5mSfTmUDYNGwiscnKYA",
+		"openid":"olngMwl6t5mSfTmUDYNGwiscnKYA",
 	   "vcd":"5e133196c77fb2721e387ec2c624cfa7"
 	}
     
@@ -106,6 +108,8 @@ http://dev2.coingogo.com:10/mobi/member/auth-reg
     {
 	   "source" : "weixin",
 	   "source_id" : "olngMwl6t5mSfTmUDYNGwiscnKYA",
+		"unionid":"olngMwl6t5mSfTmUDYNGwiscnKYA",
+		"openid":"olngMwl6t5mSfTmUDYNGwiscnKYA",
        "uname" : "xxx",
        "email" : "mail126@sss.com",
        "pwd":"123456",		
