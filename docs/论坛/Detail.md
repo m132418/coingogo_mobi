@@ -32,3 +32,14 @@ article/comments4-detail
 	"vcd":"90856a1a870b44e226895368b12f7c47"
 	}
 	
+
+article/comments4-detail-asc
+
+	{
+	"id":19247, 
+		"page":0,
+		"psize":6,
+		"uid":101,
+		"token":"b9a336214e47717c49641e1e3dcf6a61",
+	"vcd":"90856a1a870b44e226895368b12f7c47"
+	}
