@@ -19,3 +19,21 @@ http://dev2.coingogo.com:10/mobi/knowledge/ask
 	}
 
 **返回略**
+
+
+# 提高悬赏 #
+
+**url:**
+
+http://dev2.coingogo.com:10/mobi/knowledge/increase-reward
+
+**入参**
+
+	{
+	
+		"id":5321,		
+		"yuandian":3, //如果amount_type=0 了那么 必须有这个字段
+       "vcd":"a2514028d09ac77493942fe1f338b2aa",
+	"uid":101,
+	"token":"b9a336214e47717c49641e1e3dcf6a61"
+	}
