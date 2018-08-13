@@ -59,5 +59,5 @@ http://dev2.coingogo.com:10/mobi/member/auth-binding-wx
 		"openid":"olngMwl6t5mSfTmUDYNGwiscnKYA",
        "uname" : "xxx",      
        "pwd":"123456",	     
-       "vcd":"e215dc8270239f32a433a172054172c4"
+       "vcd":"e1c2d90ecf5a33c0e06c3a3c61f36cfb"
     }
