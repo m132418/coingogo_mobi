@@ -16,7 +16,8 @@ source :qq,weixin,weibo
 	   "source" : "weixin",
 	   "source_id" : "olngMwl6t5mSfTmUDYNGwiscnKYA",
 		"unionid":"olngMwl6t5mSfTmUDYNGwiscnKYA",
-		"openid":"olngMwl6t5mSfTmUDYNGwiscnKYA"	 
+		"openid":"olngMwl6t5mSfTmUDYNGwiscnKYA"	 ,
+		"vcd":"5e133196c77fb2721e387ec2c624cfa7"
 	}
     
 *source "weixin"第三方标识 微信 "qq" qq ；source_id 第三方登录提供的唯一标识.*
@@ -47,7 +48,7 @@ http://dev2.coingogo.com:10/mobi/member/auth-reg
 # 三方微信绑定已有账号 #
 **url:**
 
-http://dev2.coingogo.com:10/mobi/member/auth-bing-wx
+http://dev2.coingogo.com:10/mobi/member/auth-binding-wx
 
 入参
 
